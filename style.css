@@ -1,0 +1,29 @@
+body
+{
+  color: rgb(3, 13, 122);
+  background-color: palevioletred;
+}
+
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#result_hand ,#result_hand2
+{
+  color: black;
+  font-size: 35px;
+}
+.heading {
+  font-size: 18px;
+  border-radius: 10px;
+  letter-spacing: 5px;
+}
+label {
+  font-size: 14px;
+  border-radius: 10px;
+  background-color: purple;
+  padding: 6px;
+  color: aqua;
+}
